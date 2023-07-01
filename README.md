@@ -5,7 +5,8 @@ Welcome to Launchpad! This project is a basic Django application template design
 To get started with the project, follow the steps below.
 
 ## Prerequisites
-Make sure you have the following prerequisites installed:
+Make sure you have the following prerequisites installed
+
     - Python (version 3.6 or higher)
     - Django (version 3.2 or higher)
 
