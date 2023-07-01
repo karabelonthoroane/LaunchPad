@@ -6,8 +6,8 @@ To get started with the project, follow the steps below.
 
 ## Prerequisites
 Make sure you have the following prerequisites installed:
-    * Python (version 3.6 or higher)
-    * Django (version 3.2 or higher)
+    "*" Python (version 3.6 or higher)
+    "*" Django (version 3.2 or higher)
 
 ## Installation
     1. Clone the repository.
